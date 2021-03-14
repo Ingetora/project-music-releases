@@ -41,4 +41,4 @@ Your page should be responsive:
 
 ## View it live
 
-Netlify link to be deployd soon...
+https://hungry-knuth-014e6f.netlify.app/
